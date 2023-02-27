@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://motlakz.github.io/notifications-page-main](https://your-live-site-url.com)
+- Live Site URL: [https://motlakz.github.io/notifications-page-main](https://motlakz.github.io/notifications-page-main)
 
 ## My process
 
