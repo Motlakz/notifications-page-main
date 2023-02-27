@@ -48,8 +48,6 @@ Users should be able to:
 I learned how to create interactive elements and toggling between them using JavaScript concepts such as forEach methods, functions, and on click event listeners.
 I also learned how to initiate a countdown based on the unselected elements and keeping the count to 0 if there are no more notifications to read.
 
-To see how you can add code snippets, see below:
-
 ```js
 messageCards.forEach(card => {
   card.addEventListener('click', () => {
